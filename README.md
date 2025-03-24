@@ -255,7 +255,7 @@ This is a Django-based mini booking system where users can book available slots 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/mini-booking-system.git
+   git clone https://github.com/mukund7296/mini-booking-system.git
    cd mini-booking-system
    ```
 
@@ -298,4 +298,3 @@ This is a Django-based mini booking system where users can book available slots 
 
 ---
 
-This should set you up with a Django app running in Docker, connected to PostgreSQL, and properly version-controlled with Git and GitHub. Let me know if you run into any issues!
